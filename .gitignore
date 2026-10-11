@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Production Build Outputs
+dist/
+client/dist/
+server/dist/
+build/
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+.env.production.local
+server/.env
+client/.env
+
+# Local Databases (SQLite WAL / SHM files)
+*.db
+*.db-shm
+*.db-wal
+nala.db
+nala.db-shm
+nala.db-wal
+
+# Logs & Temporary Files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vercel Deployment metadata
+.vercel/

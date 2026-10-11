@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# TypeScript Build Output
+dist/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Databases
+*.db
+*.db-shm
+*.db-wal
+nala.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
