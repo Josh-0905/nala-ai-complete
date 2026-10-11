@@ -10,10 +10,10 @@
 * **Project Title**: NALA AI — Smart Pantry Scanner & Recipe Recommendation System
 * **Domain**: Full-Stack Web Development, Artificial Intelligence (Computer Vision & NLP), Smart Kitchen Assistant
 * **Architecture**: Decoupled Monorepo (React/Vite Frontend + Express/Node.js Backend API + SQLite/PostgreSQL Database)
-* **Frontend Repository**: [nala-ai-frontend](https://github.com/janu840853/nala-ai-frontend) *(or configured college repo)*
-* **Backend Repository**: [nala-ai-backend](https://github.com/janu840853/nala-ai-backend) *(or configured college repo)*
-* **Complete Monorepo**: [nala-ai-complete](https://github.com/janu840853/nala-ai-complete) *(or configured college repo)*
-* **Live Deployment**: Hosted on Vercel
+* **Frontend Repository**: [nala-ai-frontend](https://github.com/Josh-0905/nala-ai-frontend)
+* **Backend Repository**: [nala-ai-backend](https://github.com/Josh-0905/nala-ai-backend)
+* **Complete Monorepo**: [nala-ai-complete](https://github.com/Josh-0905/nala-ai-complete)
+* **Live Deployment**: [https://client-eosin-three-25.vercel.app](https://client-eosin-three-25.vercel.app)
 
 ---
 
